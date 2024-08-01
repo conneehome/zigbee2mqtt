@@ -1,8 +1,8 @@
 {
-  "name": "Zigbee2MQTT",
+  "name": "Zigbee2MQTT Connee",
   "version": "1.37.0-1",
-  "slug": "zigbee2mqtt",
-  "description": "Use your ZigBee devices without the vendor's bridge or gateway",
+  "slug": "zigbee2mqtt_connee",
+  "description": "Zigbee2mqtt for Connee Domo",
   "uart": true,
   "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt",
   "startup": "application",
